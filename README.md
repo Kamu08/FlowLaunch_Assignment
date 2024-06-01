@@ -35,7 +35,9 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/your-username/react-ecommerce-app.git
-
+   
+2. Navigate to the project directory:
+   
  ```bash
     cd react-ecommerce-app
     npm install
